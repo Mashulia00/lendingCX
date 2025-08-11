@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-site",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +14,8 @@
     "gh-pages": "^6.3.0",
     "vite": "^7.1.0"
   },
+=======
+>>>>>>> 99a1acc (update env and connection string)
   "dependencies": {
     "lenis": "^1.3.8",
     "motion": "^12.23.12"
